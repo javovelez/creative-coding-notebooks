@@ -3113,7 +3113,7 @@ table.alt tbody tr td {
   letter-spacing: -0.025em;
 }
 
-#header p .jupyter-notebook {
+#header p .notebooks {
   border-bottom: 1px dotted hsl(45, 90%, 50%);
 }
 
