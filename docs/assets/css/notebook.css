@@ -13600,7 +13600,7 @@ div#notebook {
   color: black;
   font-weight: 600;
   padding: 10px;
-  background-color: hsla(150, 0%, 50%, 0.5);
+  background-color: hsla(45, 0%, 50%, 0.5);
   border-radius: 5px;
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
@@ -13608,7 +13608,7 @@ div#notebook {
 
 .notebook-navbar a:hover {
   transition: 0.25s;
-  background-color: hsla(150, 50%, 50%, 0.5);
+  background-color: hsla(45, 70%, 50%, 0.5);
 }
 
 .notebook-navbar a:before {
